@@ -1,6 +1,6 @@
-h1 {
+#main-headline1 {
       text-align: center;
-      color: red;
+      color: blue;
 }
 
 h2 {
@@ -8,17 +8,30 @@ h2 {
       text-decoration: underline;
 }
 
-p {
-     color: green;
-     font-family:"Tahoma";
+.place-description {
+     color: olive;
+     font-family:Verdana;
 }
 
-ul {
+.top-favorite {
       font-style: italic;
+      font-weight:bold;
+      color:red;
 }
 
-ol {
-      font-weight: bold;
-      font-size: 1.6em;
+.person-description {
+      color:purple;
 }
 
+.important-point {
+text-decoration:underline;}
+
+
+.top-favorite{
+        color:red;
+        font-weight:bold;
+        }
+        
+.emphasis {
+		font-style:italic;
+		}
